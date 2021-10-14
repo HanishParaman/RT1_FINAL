@@ -1,5 +1,5 @@
 
-# Research_Track_1-final-assignmnet (Ginne vikas Reddy) (matricola 5061211)
+# Research_Track_1-final-assignmnet (HANISH PARAMAN) (matricola 5060913)
 
 ## Overview of the project
 
@@ -44,7 +44,7 @@ in case of pressing 4,the velocities are set to 0 ,then the robot will stop for 
 
 git clone the package
 
-`https://github.com/vikasreddy636/Research_Track_1-final-assignmnet.git`
+`https://github.com/HanishParaman/RT1_FINAL`
 
 create a workspace in root repositories
 
